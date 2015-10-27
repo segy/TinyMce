@@ -7,7 +7,7 @@ App::uses('AppHelper', 'View/Helper');
  * @package TinyMce
  * @author segy
  */
-class PhpExcelHelper extends AppHelper {
+class TinyMceHelper extends AppHelper {
     /**
      * Helpers
      *
